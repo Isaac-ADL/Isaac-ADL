@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Díaz</h1>
 <h3 align="center">A passionate software developer from México</h3>
 
-- 🔭 I’m currently working on **Data Science**
-
-- 🌱 I’m currently learning **FastAPI**
+- 🔭 I’m currently working on **QA Automated Testing**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
